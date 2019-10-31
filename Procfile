@@ -1,1 +1,1 @@
-web: python examples/flask-kitchensink/app.py
+web: python examples/flask-echo/app.py
